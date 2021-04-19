@@ -18,5 +18,5 @@ https://ctftime.org/writeups/rss/
 
 Capture The Flag, CTF teams, CTF ratings, CTF archive, CTF writeups.
 
-의 정보를 알려줍니다. 
+의 각종 정보를 알려줍니다. 
 홈페이지나 도메인에 적용 했을시 각종 행사 및 대외 정보를 파악하기 용이합니다. 
